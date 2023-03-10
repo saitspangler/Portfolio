@@ -61,3 +61,11 @@
     });
 
 })(jQuery); // End of use strict
+
+function changeBackground() {
+    document.body.style.backgroundColor = "#007bff";
+};
+
+function changeBack(){
+    document.body.style.backgroundColor = "#577399";
+}
